@@ -18,4 +18,4 @@ Rear Camera  | Dual : 13 MP; 2MP(depth); 2MP(Macro- only Narzo 10A and C3 Global
 Front Camera | Single: 5 MP
 Release Month | 2020, February 14 | 2020, May 22 
 
-![Realme C3](https://www.gsmarena.com/realme_narzo_10a-pictures-10234.php "Realme C3")
+![Realme C3](https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg "Realme C3")
